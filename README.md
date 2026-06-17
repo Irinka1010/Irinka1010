@@ -2,13 +2,23 @@
 
 ### Frontend Developer & AI Automator
 
-Building AI-powered business automation with n8n, OpenAI and APIs.
+Helping businesses automate operations with AI, n8n, APIs, and intelligent workflows.
+
+📍 Kremenchuk, Ukraine
+
+🔹 Frontend Developer with commercial experience
+
+🔹 AI Automator focused on workflow automation and AI agents
+
+🔹 Open to freelance and automation projects
+
+---
 
 ## 🚀 About Me
 
-I am a Frontend Developer and AI Automator focused on creating practical automation solutions that streamline business processes, improve operational efficiency, and reduce manual work.
+I build AI-powered automation systems that help businesses save time, reduce manual work, and improve operational efficiency.
 
-I combine frontend development experience with AI-powered workflow automation using n8n, OpenAI, APIs, webhooks, and AI agents.
+My expertise combines frontend development with workflow automation, AI agents, API integrations, CRM automation, reporting systems, and business process optimization using n8n, OpenAI, and modern web technologies.
 
 ## 🛠️ Tech Stack
 
@@ -25,36 +35,35 @@ I combine frontend development experience with AI-powered workflow automation us
 * n8n
 * OpenAI API
 * AI Agents
+* OpenRouter (LLMs)
 * REST APIs
 * Webhooks
 * Telegram Bot API
-* OpenRouter (LLMs)
 * Zoho CRM
 * Google Sheets
 * Klaviyo
-* Workflow Automation
 
 ## 📂 Featured Case Studies
 
 ### AI Lead Capture & Qualification System
 
-Automated lead qualification using AI-powered workflows and structured decision-making logic.
+Automated lead qualification and scoring using AI-powered workflows and structured decision-making frameworks.
 
 ### Monthly Sales Analytics Automation
 
-Automated collection, processing, and reporting of sales data for faster business insights.
+Automated sales data collection, analysis, and reporting to provide actionable business insights.
 
 ### AI Proactive QC — Automated Call Quality Control System
 
-AI-driven call analysis and quality monitoring workflow for customer service teams.
+AI-powered call analysis and quality monitoring system for customer service teams.
 
 ### AI Sales Ecosystem
 
-Lead Qualification, Conversation Analysis & CEO Reporting using AI, CRM integrations, and automated reporting.
+End-to-end automation for lead qualification, conversation analysis, CRM management, and CEO reporting.
 
 ### AI Ticket Routing + SLA + Escalation
 
-AI-powered ticket classification, prioritization, SLA monitoring, and escalation workflows.
+Automated ticket classification, prioritization, SLA monitoring, and multi-level escalation workflows.
 
 ## 📈 What I Build
 
@@ -70,11 +79,12 @@ AI-powered ticket classification, prioritization, SLA monitoring, and escalation
 
 ## 🌍 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/iryna-mykhailova10/
-* Portfolio: https://bottlenose-houseboat-a90.notion.site/AI-Automation-Specialist-Portfolio-333051b90ead8017b146d9a340ce4ddc
-* Telegram: @IrinkaMykhailova
+🔗 [LinkedIn](https://www.linkedin.com/in/iryna-mykhailova10/)
+
+📂 [AI Automation Portfolio](https://bottlenose-houseboat-a90.notion.site/AI-Automation-Specialist-Portfolio-333051b90ead8017b146d9a340ce4ddc?source=copy_link)
+
+📨 Telegram: @IrinkaMykhailova
 
 ---
 
-⭐ Open to freelance opportunities and AI automation projects.
-
+⭐ Open to freelance opportunities, AI automation projects, and business process optimization initiatives.
