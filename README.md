@@ -4,8 +4,6 @@
 
 Helping businesses automate operations with AI, n8n, APIs, and intelligent workflows.
 
-📍 Kremenchuk, Ukraine
-
 🔹 Frontend Developer with commercial experience
 
 🔹 AI Automator focused on workflow automation and AI agents
